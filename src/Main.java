@@ -41,7 +41,6 @@ public class Main {
         return max;
     }
 
-
     public static void main(String[] args) {
         list[0] = new Employee( "Иванов Павел Викторович", 1, 50000);
         list[1] = new Employee( "Иванов Иван Викторович", 1, 35000);
