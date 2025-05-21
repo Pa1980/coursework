@@ -17,6 +17,7 @@ public class Main {
         list[5] = new Employee( "Айтипов Эдмунд Зигмунтович", 1, 65000);
         list[6] = new Employee( "Сидоров Рамзес Арапович", 1, 99000);
         printList();
+        System.out.println(counter);
 
     }
 }
