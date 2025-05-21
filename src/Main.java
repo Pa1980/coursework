@@ -58,5 +58,6 @@ public class Main {
         System.out.println("среднее значение ЗП - "+average());
         System.out.println();
         printFullName();
+
     }
 }
